@@ -1,5 +1,5 @@
 # deca-notes-backend
-- This a repository for the backend server api made using express js & MongoDB by using mongoose in node js.
+- This is a repository for the backend server api made using express js & MongoDB by using mongoose in node js.
 
 # Setup 💽
 
