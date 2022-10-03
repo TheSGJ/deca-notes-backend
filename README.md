@@ -6,6 +6,9 @@
 ### If you havent installed yarn yet:
 `npm i -g yarn`
 
+### Also download the nodemon globally by:
+`npm i -g nodemon`
+
 ## Install the necessary packages by :
 - `yarn`
 
