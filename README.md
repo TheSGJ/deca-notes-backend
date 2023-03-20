@@ -15,7 +15,7 @@
 ### `# Create .env for using environment variables`
 - You have to store your MongoDB connection string in this file by using the below command
 
-- `echo "MONGO_URI_STR='<YOUR_MONGO_DB_STRING>'" >> .env`
+- `echo "MONGO_URI_STR=<YOUR_MONGO_DB_STRING>" >> .env`
 
 - `# Replace <YOUR_MONGO_DB_STRING> with your MongoDB connection string.`
 
